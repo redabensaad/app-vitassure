@@ -9,11 +9,13 @@
 ![RxJS](https://img.shields.io/badge/RxJS-Reactive_Programming-B7178C)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ed)
 
-# Vitassure (fullstack project) Spring boot 3, Angular 17, Tailwind, PostgreSQL, JWT (2026) (Backend + Frontend)
+# Vitassure • Fullstack Health Insurance Platform (Spring Boot 3 + Angular 17)
 
-Insurance management platform built with **Spring Boot** and **Angular**, designed to streamline policyholder records, reimbursement requests, reporting, and administrative workflows through a secure and scalable architecture.
+Health insurance management platform built with Spring Boot and Angular, designed to streamline policyholder records, reimbursement workflows, reporting, and secure access management.
 
-## Key Features
+This repository is organized as a monorepo containing both the Spring Boot backend and Angular frontend applications.
+
+## ✨ Key Features
 
 * **Policyholder Management:** Create, update, and track insurance records and medical histories.
 * **Reimbursement Processing:** Manage claims, reimbursement requests, and payment tracking.
@@ -22,7 +24,7 @@ Insurance management platform built with **Spring Boot** and **Angular**, design
 * **Analytics & Reporting:** Generate statistics and operational reports for reimbursement activities.
 * **Real-Time Record Tracking:** Centralized monitoring of medical and administrative information.
 
-## Core Modules
+## 🏥 Core Modules
 
 ### Policyholder Records
 
@@ -48,7 +50,7 @@ Insurance management platform built with **Spring Boot** and **Angular**, design
 * Reimbursement statistics
 * Operational insights and monitoring
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 ### Backend
 
@@ -70,7 +72,7 @@ Insurance management platform built with **Spring Boot** and **Angular**, design
 
 * **Docker**
 
-## Architecture
+## 🏗️ Architecture
 
 * **RESTful API Architecture**
 * **Frontend / Backend Separation**
@@ -79,7 +81,7 @@ Insurance management platform built with **Spring Boot** and **Angular**, design
 * **Scalable and Maintainable Design**
 * **Cross-Platform Compatibility** (Desktop, Tablet, Mobile)
 
-## Business Objectives
+## 🎯 Business Objectives
 
 * Digitize health insurance record management
 * Simplify reimbursement workflows
@@ -87,7 +89,7 @@ Insurance management platform built with **Spring Boot** and **Angular**, design
 * Enhance data security and access control
 * Provide actionable reporting and analytics
 
-## Project Lifecycle
+## 🔄 Project Lifecycle
 
 1. Requirements Analysis
 2. System Design
@@ -96,9 +98,8 @@ Insurance management platform built with **Spring Boot** and **Angular**, design
 5. Deployment
 6. Continuous Maintenance
 
-## Project Status
+## 🚧 Project Status
 
 **Active Development**
 
-This project is currently under development, with ongoing improvements focused on security, performance, user experience, and healthcare process automation.
-
+Vitassure is currently under active development, with ongoing work focused on healthcare workflow automation, security, reporting, and user experience improvements.
