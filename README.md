@@ -9,97 +9,84 @@
 ![RxJS](https://img.shields.io/badge/RxJS-Reactive_Programming-B7178C)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ed)
 
-# Vitassure • Fullstack Health Insurance Platform (Spring Boot 3 + Angular 17)
+# Vitassure
 
-Health insurance management platform built with Spring Boot and Angular, designed to streamline policyholder records, reimbursement workflows, reporting, and secure access management.
+Health insurance management platform designed to streamline policyholder records, reimbursement workflows, reporting and secure access management.
 
-This repository is organized as a monorepo containing both the Spring Boot backend and Angular frontend applications.
+> \> [Live Preview](https://redabensaad.github.io/vitassure)
 
-## ✨ Key Features
+---
 
-* **Policyholder Management:** Create, update, and track insurance records and medical histories.
-* **Reimbursement Processing:** Manage claims, reimbursement requests, and payment tracking.
-* **Role-Based Access Control:** Secure access for administrators, employees, and policyholders.
-* **JWT Authentication:** Stateless authentication and secure API communication.
-* **Analytics & Reporting:** Generate statistics and operational reports for reimbursement activities.
-* **Real-Time Record Tracking:** Centralized monitoring of medical and administrative information.
+$ Context
 
-## 🏥 Core Modules
+Vitassure is a full-stack healthcare platform developed to digitize health insurance operations and simplify administrative processes.
 
-### Policyholder Records
+The application centralizes policyholder information, reimbursement workflows, reporting capabilities and secure access management within a single system.
 
-* Personal information management
-* Medical history tracking
-* Record updates and monitoring
+---
 
-### Reimbursement Management
+$ Domain
 
-* Healthcare reimbursement requests
-* Medication and hospitalization claims
-* Reimbursement tracking and reporting
+> \> Health insurance management<br>
+> \> Healthcare reimbursements<br>
+> \> Policyholder administration<br>
+> \> Claims processing<br>
+> \> Operational reporting<br>
 
-### Security & Access Control
+---
 
-* JWT-based authentication
-* Role and permission management
-* Protected REST API endpoints
+$ What Was Built
 
-### Reporting & Analytics
+> \> Policyholder record management<br>
+> \> Medical history tracking<br>
+> \> Reimbursement request processing<br>
+> \> Claims management workflows<br>
+> \> Payment and reimbursement tracking<br>
+> \> JWT authentication workflows<br>
+> \> Role-based access control<br>
+> \> Reporting dashboards<br>
+> \> Operational analytics<br>
+> \> Administrative monitoring tools<br>
 
-* Automated report generation
-* Reimbursement statistics
-* Operational insights and monitoring
+---
 
-## 🛠️ Technologies Used
+$ Technical Stack
 
-### Backend
+> \> Java 17<br>
+> \> Spring Boot 2.7<br>
+> \> Spring Security<br>
+> \> JWT Authentication<br>
+> \> PostgreSQL 16<br>
+> \> Maven<br>
+> \> Angular 17<br>
+> \> TypeScript<br>
+> \> NgRx<br>
+> \> RxJS<br>
+> \> Docker<br>
 
-* **Java 17**
-* **Spring Boot**
-* **Spring Security**
-* **JWT Authentication**
-* **PostgreSQL**
-* **Maven**
+---
 
-### Frontend
+$ Architecture
 
-* **Angular 17+**
-* **TypeScript**
-* **NgRx**
-* **RxJS**
+The application follows a full-stack architecture composed of a Spring Boot backend and an Angular frontend.
 
-### DevOps
+Authentication and authorization are enforced through JWT-based security while business operations are exposed through REST APIs and consumed by reactive Angular workflows.
 
-* **Docker**
+The solution was designed to support healthcare administration, reimbursement management and long-term system evolution.
 
-## 🏗️ Architecture
+---
 
-* **RESTful API Architecture**
-* **Frontend / Backend Separation**
-* **JWT-Based Security**
-* **Role-Based Authorization**
-* **Scalable and Maintainable Design**
-* **Cross-Platform Compatibility** (Desktop, Tablet, Mobile)
+$ Project Status
 
-## 🎯 Business Objectives
+> \> Active development<br>
+> \> Full-stack application<br>
+> \> Monorepo architecture<br>
+> \> Healthcare management platform<br>
 
-* Digitize health insurance record management
-* Simplify reimbursement workflows
-* Improve administrative efficiency
-* Enhance data security and access control
-* Provide actionable reporting and analytics
+---
 
-## 🔄 Project Lifecycle
+$ Notes
 
-1. Requirements Analysis
-2. System Design
-3. Development
-4. Testing & Validation
-5. Deployment
-6. Continuous Maintenance
+This project was developed collaboratively within a healthcare insurance context.
 
-## 🚧 Project Status
-
-**Active Development**
-
-Vitassure is currently under active development, with ongoing work focused on healthcare workflow automation, security, reporting, and user experience improvements.
+It showcases secure application development, reimbursement workflow automation, administrative management and modern frontend-backend integration.
