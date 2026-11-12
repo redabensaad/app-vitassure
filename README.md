@@ -90,3 +90,16 @@ $ Notes
 This project was developed collaboratively within a healthcare insurance context.
 
 It showcases secure application development, reimbursement workflow automation, administrative management and modern frontend-backend integration.
+
+---
+
+$ Preview
+
+![Vitassure](shot/vitassure.png)
+
+---
+
+$ Built
+
+✓ Jun 2026
+
